@@ -7,7 +7,7 @@ A lightweight, containerized Network Attached Storage (NAS) setup on a Raspberry
 
 ---
 
-## 🌟 Key Features
+## Key Features
 * **Containerized Infrastructure:** Runs completely inside Docker for easy deployment and clean host OS setup.
 * **Network Integration:** Easily mapped as a local network drive in Windows File Explorer (`This PC`).
 * **High Performance:** Optimized for Raspberry Pi 4 with low memory footprint.
@@ -15,28 +15,7 @@ A lightweight, containerized Network Attached Storage (NAS) setup on a Raspberry
 
 ---
 
-## 📐 Architecture Overview
-
-+-----------------------------------------------------------+
-|                      Local Network (LAN)                  |
-|                                                           |
-|   +------------------+         +----------------------+   |
-|   | Windows Client   | <=====> | Raspberry Pi 4       |   |
-|   | (Mapped Drive)   |   SMB   |                      |   |
-|   +------------------+         |  +----------------+  |   |
-|                                |  | Docker Container|  |   |
-|                                |  | (dperson/samba) |  |   |
-|                                |  +-------+--------+  |   |
-|                                |          | Volume    |   |
-|                                |  +-------v--------+  |   |
-|                                |  | Host Filesystem|  |   |
-|                                |  +----------------+  |   |
-|                                +----------------------+   |
-+-----------------------------------------------------------+
-
----
-
-## 🚀 Quick Start & Installation
+## Quick Start & Installation
 
 ### Prerequisites
 * Raspberry Pi 4 running Linux OS
@@ -56,3 +35,10 @@ A lightweight, containerized Network Attached Storage (NAS) setup on a Raspberry
 
 3. **Deploy the container:**
    docker compose up -d
+
+4. **Connect from Windows:**
+   1. Open File Explorer and go to This PC
+   2. Right click on This PC and then Add a network location
+   3. Specify the folder path:
+      \\<RASPBERRY_PI_IP>\SharedStorage
+   4. Check Reconnect at sign-in and click Finish
