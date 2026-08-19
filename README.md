@@ -1,13 +1,16 @@
 <!-- Tech Stack & Metadata (Large Style) -->
 ![Raspberry Pi](https://img.shields.io/badge/Hardware-Raspberry%20Pi%204-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/raspberrypi-samba-nas?style=for-the-badge&color=2ea44f)
+![Last Commit](https://img.shields.io/github/last-commit/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=2ea44f)
 
-<!-- Tech Stack Badges -->
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Raspberry%20Pi%20OS-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Samba](https://img.shields.io/badge/Protocol-SMB%2FCIFS-005580?style=flat-square)
+<!-- Activity Badges -->
+![Last Commit](https://img.shields.io/github/last-commit/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=2ea44f)
+![Repo Size](https://img.shields.io/github/repo-size/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=blue)
+
+<!-- Community & Status -->
+![Open Issues](https://img.shields.io/github/issues/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=orange)
+![Stars](https://img.shields.io/github/stars/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=yellow&label=Stars)
+![License](https://img.shields.io/github/license/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=informational)
 
 # raspberrypi-samba-nas
 Creating a central hub for saving and sharing files via local network using Docker Container and Samba 
