@@ -3,14 +3,6 @@
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Last Commit](https://img.shields.io/github/last-commit/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=2ea44f)
 
-<!-- Activity Badges -->
-![Last Commit](https://img.shields.io/github/last-commit/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=2ea44f)
-![Repo Size](https://img.shields.io/github/repo-size/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=blue)
-
-<!-- Community & Status -->
-![Open Issues](https://img.shields.io/github/issues/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=orange)
-![Stars](https://img.shields.io/github/stars/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=yellow&label=Stars)
-![License](https://img.shields.io/github/license/cyberbrauni/raspberrypi-samba-nas?style=for-the-badge&color=informational)
 
 # raspberrypi-samba-nas
 Creating a central hub for saving and sharing files via local network using Docker Container and Samba 
