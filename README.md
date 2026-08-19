@@ -1,7 +1,7 @@
-<!-- Activity & Repo Metadata -->
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/raspberrypi-samba-nas?style=flat-square&color=2ea44f)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/raspberrypi-samba-nas?style=flat-square&color=blue)
-![GitHub license](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/raspberrypi-samba-nas?style=flat-square&color=informational)
+<!-- Tech Stack & Metadata (Large Style) -->
+![Raspberry Pi](https://img.shields.io/badge/Hardware-Raspberry%20Pi%204-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/raspberrypi-samba-nas?style=for-the-badge&color=2ea44f)
 
 <!-- Tech Stack Badges -->
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
